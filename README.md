@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iced-cola
+- 👋 Hi, I’m @icedcoke
 - 👀 I’m interested in gaming!
 - 🌱 I’m currently learning hello world
 - 💞️ I’m looking to collaborate on Baldur's Gate 3
